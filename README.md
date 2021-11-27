@@ -1,2 +1,2 @@
 # e-pemira
-Aplikasi e voting organisasi
+Aplikasi e voting organisasi edit
